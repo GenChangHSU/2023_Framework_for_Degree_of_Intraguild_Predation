@@ -1,7 +1,7 @@
 ## An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field
 
 __Hsu, G-C.__. 2023. An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field. 
-__*Journal of Zoology*__.
+__*Journal of Zoology*__ 320: 1–6.
 
 ## Abstract
 
